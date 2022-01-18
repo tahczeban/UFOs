@@ -20,6 +20,7 @@ The purpose of this challenge was to help Dana build an HTML page,  access infor
 
 ***RESULTS***
 webpage with data, filters for date, city, state, country and shape
+add pics, instructions
 
 ***SUMMARY***
 
