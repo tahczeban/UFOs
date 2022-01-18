@@ -1,6 +1,15 @@
 # UFOs
 
+![nasa](https://user-images.githubusercontent.com/90135381/150019283-f1500cd9-ed65-481a-96ca-598a19851725.jpg)
+
+
+
+
+
 ***RESOURCES*** JavaScript, Bootstrap, HTML, CSS, D3.js, VSC.
+
+
+
 
 ***OVERVIEW***
 The purpose of this challenge was to help Dana build an HTML page,  access information from a JS data.js file, stored as an array, and to create an interactive website to search UFO sightings. In order to create the HTML webpage, the following had to be completed: 
@@ -20,7 +29,6 @@ The purpose of this challenge was to help Dana build an HTML page,  access infor
 
 ***RESULTS***
 
-![nasa](https://user-images.githubusercontent.com/90135381/150019033-85d0ab5e-af38-402a-8acf-8195c2567a51.jpg)
 
 <img width="1440" alt="challenge pic" src="https://user-images.githubusercontent.com/90135381/150019106-d65f5d56-5ace-451c-819c-d81c2958d00e.png">
 
