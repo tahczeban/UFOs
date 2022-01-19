@@ -6,7 +6,7 @@
                           Figutre 1: NASA image obtained from website
 
 
-***RESOURCES*** JavaScript, Bootstrap, HTML, CSS, D3.js, VSC, NASA website.
+***RESOURCES*** JavaScript, Bootstrap, HTML, CSS, D3.js, VSC, NASA website and images.
 
 
 
@@ -28,6 +28,9 @@ The purpose of this challenge was to help Dana build an HTML page,  access infor
 
 
 ***RESULTS***
+
+In the figures below, it can be ascertained that information regarding various elements could be obtained via the webpage interactive filters for date, city, state, country and shape in order for Dana to obtain information regarding UFO sightings.
+
 
 
 <img width="1440" alt="challenge pic" src="https://user-images.githubusercontent.com/90135381/150019106-d65f5d56-5ace-451c-819c-d81c2958d00e.png">
@@ -66,8 +69,7 @@ The purpose of this challenge was to help Dana build an HTML page,  access infor
 
 
 
-webpage with data, filters for date, city, state, country and shape
-add pics, instructions
+
 
 ***SUMMARY***
 
