@@ -6,7 +6,7 @@
                           Figutre 1: NASA image obtained from website
 
 
-***RESOURCES*** JavaScript, Bootstrap, HTML, CSS, D3.js, VSC.
+***RESOURCES*** JavaScript, Bootstrap, HTML, CSS, D3.js, VSC, NASA website.
 
 
 
@@ -32,14 +32,38 @@ The purpose of this challenge was to help Dana build an HTML page,  access infor
 
 <img width="1440" alt="challenge pic" src="https://user-images.githubusercontent.com/90135381/150019106-d65f5d56-5ace-451c-819c-d81c2958d00e.png">
 
+
+          
+                           Figure 2: Webpage Introduction    
+          
+          
+          
+          
 <img width="1440" alt="filterTable tx" src="https://user-images.githubusercontent.com/90135381/150208775-8a43d0ea-6c48-42cb-a6db-406a46100bfe.png">
+
+
+
+                           Figure 3: filterTable "Texas" (tx)
+
 
 
 
 <img width="1440" alt="filterTable tx, 1:10:2010" src="https://user-images.githubusercontent.com/90135381/150208796-8e2eab9b-2e56-46cc-9b40-4913b0553329.png">
 
 
+
+                          Figure 4: filterTable "Texas", "1/10/2020"
+
+
+
+
 <img width="1440" alt="filterTable circle" src="https://user-images.githubusercontent.com/90135381/150208816-e5073601-8699-4c94-b989-f66e5ce71816.png">
+
+
+
+                          Figure 5: filterTable "circle"
+
+
 
 
 webpage with data, filters for date, city, state, country and shape
