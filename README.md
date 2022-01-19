@@ -29,7 +29,7 @@ The purpose of this challenge was to help Dana build an HTML page,  access infor
 
 ***RESULTS***
 
-In the figures below, it can be ascertained that information regarding various elements could be obtained via the webpage interactive filters for date, city, state, country and shape in order for Dana to search through UFO sightings instances. In Figure 3, Dana merely typed in the state code for texas and the table data was listed for sightings in that state. In order for Dana to research Texas sightings specificaly on 1/10/2010, she just had to add the date in conjunction with the state of Texas (Figure: 4). In Figure 5, in order to obtain circular UFO sightings, Dana entered circle in the shape tab. In order to continue searching additional variables, the previous text had to be deleted and a new element was then typed.
+In the figures below, it can be ascertained that information regarding various elements could be obtained via the webpage interactive filters for date, city, state, country and shape in order for Dana to search through UFO sightings instances. In Figure 3, Dana merely typed in the state code for texas and the table data was listed for sightings in that state. In order for Dana to research Texas sightings specificaly on 1/10/2010, she just had to add the date in conjunction with the state of Texas (Figure: 4). In Figure 5, in order to obtain circular UFO sightings, Dana entered "circle" in the shape tab. In order to continue searching additional variables, the previous text had to be deleted and a new element was then typed.
 
 
 
@@ -73,7 +73,7 @@ In the figures below, it can be ascertained that information regarding various e
 
 ***SUMMARY***
 
-In conclusion, a table was successfully created via HTML and JavaScript, with graphics and an interactive table. One of the primary downfalls of this webpage is that the text requirement is case sensitive, as seen in Figure 6. Both "EL CAJON" and "CA" were entered in UPPERCASE and a subsequent blank table resulted.
+In conclusion, a table was successfully created via HTML and JavaScript, with graphics and an interactive table. One of the primary downfalls of this webpage is that the table output requirement is case sensitive, as seen in Figure 6. Both "EL CAJON" and "CA" were entered in UPPERCASE and a subsequent blank table resulted.
 
 <img width="1440" alt="filterTable-case sensitivity limitation" src="https://user-images.githubusercontent.com/90135381/150211932-a5683849-10c8-42dd-9b41-e8a90b0e8825.png">
 
