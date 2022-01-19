@@ -29,7 +29,7 @@ The purpose of this challenge was to help Dana build an HTML page,  access infor
 
 ***RESULTS***
 
-In the figures below, it can be ascertained that information regarding various elements could be obtained via the webpage interactive filters for date, city, state, country and shape in order for Dana to obtain information regarding UFO sightings.
+In the figures below, it can be ascertained that information regarding various elements could be obtained via the webpage interactive filters for date, city, state, country and shape in order for Dana to search through UFO sightings instances. In Figure 3, Dana merely typed in the state code for texas and the listings came in for sightings in that state. In order for Dana to research Texas sightings specificaly on 1/10/2010, she just had to add the date in, as well as for the state of Texas
 
 
 
@@ -39,7 +39,7 @@ In the figures below, it can be ascertained that information regarding various e
           
                            Figure 2: Webpage Introduction    
           
-          
+ 
           
           
 <img width="1440" alt="filterTable tx" src="https://user-images.githubusercontent.com/90135381/150208775-8a43d0ea-6c48-42cb-a6db-406a46100bfe.png">
