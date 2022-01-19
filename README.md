@@ -76,6 +76,12 @@ In conclusion, a table was successfully created via HTMNL and JavaScript, with g
 <img width="1440" alt="filterTable-case sensitivity limitation" src="https://user-images.githubusercontent.com/90135381/150211932-a5683849-10c8-42dd-9b41-e8a90b0e8825.png">
 
 
+
+    Figure 6: filterTable with case sensitivity limitations "EL CAJON", "CA"
+
+
+
+
 The two recommendations for improving the website are:
 1. filter a range of dates, as it is difficult to know exact date of sighting
 
