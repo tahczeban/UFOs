@@ -43,7 +43,7 @@ The purpose of this challenge was to help Dana build an HTML page,  access infor
 
 
 
-                           Figure 3: filterTable "Texas" (tx)
+                           Figure 3: filterTable "Texas" (tx) with code
 
 
 
@@ -52,7 +52,7 @@ The purpose of this challenge was to help Dana build an HTML page,  access infor
 
 
 
-                          Figure 4: filterTable "Texas", "1/10/2020"
+                          Figure 4: filterTable "Texas", "1/10/2020" with code
 
 
 
@@ -61,7 +61,7 @@ The purpose of this challenge was to help Dana build an HTML page,  access infor
 
 
 
-                          Figure 5: filterTable "circle"
+                          Figure 5: filterTable "circle" with code
 
 
 
@@ -77,7 +77,7 @@ In conclusion, a table was successfully created via HTMNL and JavaScript, with g
 
 
 
-    Figure 6: filterTable with case sensitivity limitations "EL CAJON", "CA"
+    Figure 6: filterTable with case sensitivity limitations "EL CAJON", "CA" with code
 
 
 
