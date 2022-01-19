@@ -88,6 +88,6 @@ The two recommendations for improving the website are as follows:
 
 1. Perhaps a filter could be included to accomodate for the case sensitive requirements regarding the text search boxes, as this could portray mis-information due to resultant blank table space.
 
-2. An additional filter for a date range could be included, as it is difficult to guess the dates of the sightings and, agaain, a blank table ensues.
+2. As shapes, states and countries are more generalized datasets, an additional filter for a date range could be included, as it is difficult to guess the specific dates of the sightings and, again, a blank table ensues.
 
 ***REFERENCES***.  BCS, Google, StackOverflow, GitHub
