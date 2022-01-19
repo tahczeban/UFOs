@@ -32,6 +32,14 @@ The purpose of this challenge was to help Dana build an HTML page,  access infor
 
 <img width="1440" alt="challenge pic" src="https://user-images.githubusercontent.com/90135381/150019106-d65f5d56-5ace-451c-819c-d81c2958d00e.png">
 
+<img width="1440" alt="filterTable tx" src="https://user-images.githubusercontent.com/90135381/150208775-8a43d0ea-6c48-42cb-a6db-406a46100bfe.png">
+
+
+
+<img width="1440" alt="filterTable tx, 1:10:2010" src="https://user-images.githubusercontent.com/90135381/150208796-8e2eab9b-2e56-46cc-9b40-4913b0553329.png">
+
+
+<img width="1440" alt="filterTable circle" src="https://user-images.githubusercontent.com/90135381/150208816-e5073601-8699-4c94-b989-f66e5ce71816.png">
 
 
 webpage with data, filters for date, city, state, country and shape
