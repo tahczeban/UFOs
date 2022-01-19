@@ -86,8 +86,8 @@ In conclusion, a table was successfully created via HTML and JavaScript, with gr
 
 The two recommendations for improving the website are as follows:
 
-1. Perhaps the code could be altered to accomodate for the case sensitive requirements regarding the text search boxes, as this could portray mis-information due to resultant blank table space.
+1. Perhaps a filter could be included to accomodate for the case sensitive requirements regarding the text search boxes, as this could portray mis-information due to resultant blank table space.
 
-2. 
+2. An additional filter for a date range could be included, as it is difficult to guess the dates of the sightings and, agaain, a blank table ensues.
 
 ***REFERENCES***.  BCS, Google, StackOverflow, GitHub
