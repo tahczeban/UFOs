@@ -3,7 +3,7 @@
 ![nasa](https://user-images.githubusercontent.com/90135381/150019283-f1500cd9-ed65-481a-96ca-598a19851725.jpg)
 
 
-
+                          Figutre 1: NASA image obtained from website
 
 
 ***RESOURCES*** JavaScript, Bootstrap, HTML, CSS, D3.js, VSC.
